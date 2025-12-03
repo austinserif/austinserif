@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- Software Engineer and Systems Architect
+- Co-founder and CTO working on automotive software
 <!--
 **austinserif/austinserif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
